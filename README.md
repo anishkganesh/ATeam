@@ -1,3 +1,59 @@
+# A-Team — hackathon proposal fork
+
+## Overview
+
+This is a fork of [TheScientificTeen/ATeam](https://github.com/TheScientificTeen/ATeam). Its committed content is a historical hackathon proposal and progress template for a COVID-19 information website. No application source is included in this snapshot.
+
+## Features
+
+The original proposal describes statistics, infection-rate visualization, and a chatbot. These are proposal claims, not implemented features established by the committed contents.
+
+## Architecture
+
+There is no committed server, frontend, model, or data integration to run.
+
+## Tech stack
+
+Markdown documentation only; no application dependencies are declared.
+
+## Project structure
+
+- `README.md` — fork context and original proposal.
+
+## Run locally
+
+No application command exists. Clone the fork to read the proposal:
+
+```bash
+git clone https://github.com/anishkganesh/ATeam.git
+```
+
+## Configuration and data
+
+No API key, schema, or data pipeline is included.
+
+## Usage
+
+Read as an archived team proposal. It is not a current medical-information service or validated advice system.
+
+## Validation
+
+No code tests, deployed application, or chatbot accuracy evaluation is established by this repository.
+
+## Deployment
+
+No deployment configuration is included.
+
+## Limitations
+
+Only proposal text is committed, and the progress sections retain unfilled template fields.
+
+## Attribution and license
+
+Credit the upstream team for the original proposal. A fork alone does not establish original authorship of that content. No standalone license file is included.
+
+## Original upstream proposal
+
 
 Many people are misinformed about the pandemic. Due to this misinformation, many people follow wrong practices. Medical workers, with their limited resources, are struggling to help the infected. People are panic-stricken during this stressful time. This leads to the misjudgment of symptoms and unnecessary hospital visits. Doctors and medical staff are overworked and need more resources, staff and help in general. They are finding it difficult to deal with the large numbers of cases coming into the hospitals. In addition, the people are also feeling unsupported and stressed.
 
@@ -79,3 +135,4 @@ Please see the screenshots and
 ### References and Acknowledges
 
 Any references taken?
+
